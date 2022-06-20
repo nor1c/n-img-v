@@ -517,6 +517,21 @@ minimist@^1.2.6:
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
   integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
+n-img-v@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/n-img-v/-/n-img-v-0.0.5.tgz#df38e9b2a8771cefe9aa129c739f7f68c09020f8"
+  integrity sha512-UsW+GgXhG6SsIWBtRvgnYYtoHso8foeIcveK0sTBykAJcCw+hz9iH/8rVOc087bQXHYlMrde4PGVKiOkw/+SbA==
+  dependencies:
+    vue "^3.2.25"
+
+n-img-v@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/n-img-v/-/n-img-v-0.0.6.tgz#c9f61512f6739c6fbe39afcecea90094f808b9bd"
+  integrity sha512-8Q53JqLZIW3yeA1TfEzpssZ4XJKdP55Ua2r9uYAg9fbkrc1gVsfvt55ZoCJ06tiSYh92KPHRqeZjCBZr0iMFGQ==
+  dependencies:
+    n-img-v "^0.0.5"
+    vue "^3.2.25"
+
 nanoid@^3.3.4:
   version "3.3.4"
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.4.tgz#730b67e3cd09e2deacf03c027c81c9d9dbc5e8ab"

@@ -1,6 +1,6 @@
 {
   "name": "n-img-v",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "files": [
     "dist"
   ],
@@ -18,7 +18,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "n-img-v": "^0.0.5",
+    "n-img-v": "^0.0.6",
     "vue": "^3.2.25"
   },
   "devDependencies": {

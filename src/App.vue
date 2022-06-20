@@ -9,5 +9,5 @@
 </template>
 
 <script setup>
-import NImgV from './components'
+import NImgV from 'n-img-v'
 </script>

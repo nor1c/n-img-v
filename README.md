@@ -1,7 +1,24 @@
-# Vue 3 + Vite
+### Nuxt Image Package
+This package allows you to use img tag with src and alt props. Just it!
+<br>**https://www.npmjs.com/package/n-img-v**
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<hr>
 
-## Recommended IDE Setup
+#### # Installation
+```
+yarn add n-img-v
+```
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+#### # Usage
+In script
+```
+import NImgV from 'n-img-v'
+```
+
+Inside template
+```
+<n-img-v
+  :src="{image_url}"
+  :alt="{string}"
+/>
+```
